@@ -11,5 +11,5 @@ for row in range(rows):
     for column in range(columns):
         print(":-)", end=" ")
 
- # Move to a new line after each row is complete
+# Move to a new line after input
     print()
